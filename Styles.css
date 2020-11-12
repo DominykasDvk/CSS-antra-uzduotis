@@ -1,0 +1,38 @@
+body{
+  margin: 0 auto;
+  width: 300px;
+  height: auto;
+}
+.head{
+  padding: 10px 10px 20px;
+  border: 1px solid #999966;
+  box-sizing: border-box;
+}
+.description{
+  padding: 10px 10px 20px;
+  border: 1px solid #cc0099;
+  box-sizing: border-box;
+}
+.abilities span{
+  font-weight: bold;
+}
+.abilities{
+  padding: 10px 10px;
+}
+.des span{
+  font-style: italic;
+}
+h4{
+  font-family: 'Stalinist One', cursive, sans-serif;
+}
+p, ul{
+  font-size: 15px;
+  text-align: left;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.img{
+  padding-bottom: 5px;
+  width: 300px;
+  height: 150px;
+  padding-top: 5px;
+}
