@@ -5,7 +5,6 @@ body{
   background: #669999;
 }
 .head{
-  padding: 10px 10px 20px;
   border: 5px solid #999966;
   box-sizing: border-box;
 }
@@ -24,6 +23,7 @@ body{
   font-style: italic;
 }
 h4{
+  text-align: center;
   font-family: 'Stalinist One', cursive, sans-serif;
 }
 p, ul{
